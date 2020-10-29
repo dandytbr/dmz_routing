@@ -1,0 +1,6 @@
+DEST_URL : "https://grs-new-st2-poc.eng.vmware.com/api/v1/webhooks/"
+DEST_HEADER : 
+  Content-Type : 'application/json'
+  Accept-Charset: 'UTF-8'
+LOGFILE : "route_connections.log"
+BIND_ADDR: "0.0.0.0"
